@@ -1,0 +1,10 @@
+header h1{
+font-size: 20px;
+background-color: rgb(16, 20, 240);
+text-align: center;
+}
+section{
+    max-width: 800px;
+    margin:30px;
+    padding: 20px;
+}
